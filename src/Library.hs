@@ -1,6 +1,6 @@
 module Library where
 import PdePreludat
-
+ 
 data Auto = UnAuto{
     color :: String,
     velocidad :: Number,
