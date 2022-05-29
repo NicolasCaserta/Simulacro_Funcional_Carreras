@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "simulacro-carreras:lib"
+
+    - path: "./test"
+      component: "simulacro-carreras:test:simulacro-carreras-test"
